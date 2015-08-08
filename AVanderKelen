@@ -1,0 +1,9 @@
+# AVanderKelen
+~ $ cd username.github.io
+~ $ echo "startbootstrap-grayscale-1.0.4" > index.html
+
+~ $ git add --all
+
+~ $ git commit -m "Initial commit"
+
+~ $ git push -u origin master
